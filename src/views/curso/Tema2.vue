@@ -6,15 +6,15 @@
     p.mb-4 En la actualidad, teniendo en cuenta el contexto volátil y evolutivo, comprender el contexto en el que opera una organización es fundamental para la toma de decisiones estratégicas. 
 
     .row.mb-5
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .bg-color-5.p-4(data-aos="fade-left")
           p Por tanto, aplicar constantemente un análisis del ambiente externo, permite identificar oportunidades y amenazas que pueden influir en el desempeño de una empresa, ayudándola a anticiparse a cambios del mercado, regulaciones gubernamentales, tendencias tecnológicas y expectativas de los consumidores.
           figure.d-flex.justify-content-end
-            img(src="@/assets/curso/tema2/1.svg", data-aos="zoom-in", style="width: 100px")
-      .col-lg-4
+            img.d-none.d-lg-flex(src="@/assets/curso/tema2/1.svg", data-aos="zoom-in", style="width: 100px")
+      .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/2.png", data-aos="zoom-in")
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .bg-color-8.p-4(data-aos="fade-left")
           p.mb-0 Para lograr este objetivo, se debe analizar el entorno desde dos enfoques, (Microentorno y macroentorno) existen diversas herramientas de análisis del entorno, como la matriz PESTEL, que examina factores políticos, económicos, sociales, tecnológicos, ecológicos y legales; el Análisis de las Cinco Fuerzas de Porter, que permite evaluar la competitividad de una industria; y la Matriz DOFA, que ayuda a identificar fortalezas, oportunidades, debilidades y amenazas.
     
@@ -345,7 +345,7 @@
               a(href="https://www.redalyc.org/articulo.oa?id=360443665009" target="_blank" rel="noopener noreferrer") Padilla-Martínez, M. P., Quispe-Otacoma, A. L., Nogueira-Rivera, D., & Hernández-Nariño, A. (2016). Diagnóstico y perspectivas de fomento del emprendimiento como instrumento de desarrollo. Ingeniería Industrial, 37(1), 91-103. Instituto Superior Politécnico José Antonio Echeverría. 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://ebac.mx/blog/que-es-el-analisis-pestel  " target="_blank" rel="noopener noreferrer") EBAC. (2023, 3 de mayo). Qué es el análisis PESTEL y cómo hacerlo: factores y ejemplos. EBAC
+              a(href="https://ebac.mx/blog/que-es-el-analisis-pestel  .mb-3.mb-lg-0" target="_blank" rel="noopener noreferrer") EBAC. (2023, 3 de mayo). Qué es el análisis PESTEL y cómo hacerlo: factores y ejemplos. EBAC
 
             
 
