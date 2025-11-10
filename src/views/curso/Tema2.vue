@@ -250,7 +250,7 @@
                 i.far.fa-arrow-alt-circle-right.bg-color-7
                 p.mb-0 Apoya la planificación estratégica con información cualificada.
 
-          .div(titulo="Método Delphi")
+          .div(titulo="Análisis de tendencias")
             p El análisis de tendencias permite detectar patrones y cambios en el mercado, la tecnología o el comportamiento de los consumidores para anticipar oportunidades y amenazas.
             h5 ¿En qué consiste?
             ul.lista-ul--color.ms-3
@@ -345,7 +345,7 @@
               a(href="https://www.redalyc.org/articulo.oa?id=360443665009" target="_blank" rel="noopener noreferrer") Padilla-Martínez, M. P., Quispe-Otacoma, A. L., Nogueira-Rivera, D., & Hernández-Nariño, A. (2016). Diagnóstico y perspectivas de fomento del emprendimiento como instrumento de desarrollo. Ingeniería Industrial, 37(1), 91-103. Instituto Superior Politécnico José Antonio Echeverría. 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://ebac.mx/blog/que-es-el-analisis-pestel  .mb-3.mb-lg-0" target="_blank" rel="noopener noreferrer") EBAC. (2023, 3 de mayo). Qué es el análisis PESTEL y cómo hacerlo: factores y ejemplos. EBAC
+              a(href="https://ebac.mx/blog/que-es-el-analisis-pestel" target="_blank" rel="noopener noreferrer") EBAC. (2023, 3 de mayo). Qué es el análisis PESTEL y cómo hacerlo: factores y ejemplos. EBAC
 
             
 

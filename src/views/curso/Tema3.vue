@@ -63,7 +63,7 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-7
-                  p.mb-0 <b>Impacto en las RIO.</b> Se priorizan las relaciones que permiten optimizar costos mediante acuerdos eficientes, como subcontrataciones o alianzas estratégicas
+                  p.mb-0 <b>Impacto en las RIO.</b> Se priorizan las relaciones que permiten optimizar costos mediante acuerdos eficientes, como subcontrataciones o alianzas estratégicas.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0
@@ -143,7 +143,7 @@
               li.mb-0.d-flex
                 i.far.fa-arrow-alt-circle-right.bg-color-7
                 p.mb-0 <b>Ventajas.</b> Reparto de costos y riesgos.
-          .div(titulo="Alianzas estratégicas")
+          .div(titulo="Redes de colaboración")
             p Grupos de organizaciones que trabajan juntas de manera informal o formal para compartir conocimientos, experiencias y recursos.
             ul.lista-ul--color
               li.mb-0.d-flex
@@ -152,7 +152,7 @@
               li.mb-0.d-flex
                 i.far.fa-arrow-alt-circle-right.bg-color-7
                 p.mb-0 <b>Ventajas.</b> Incremento de la innovación y del aprendizaje colectivo.
-          .div(titulo="Alianzas estratégicas")
+          .div(titulo="Fusiones y adquisiciones")
             p Ocurre cuando una organización se une completamente con otra (fusión) o adquiere una parte significativa de otra empresa (adquisición).
             ul.lista-ul--color
               li.mb-0.d-flex

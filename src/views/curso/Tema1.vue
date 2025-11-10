@@ -18,7 +18,7 @@
       .p-4.p-md-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/9cqLwqWDCzs?si=F1b2M6SlLRnGqFf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/l44LqCQzExE?si=js4ddlDi3KKPndf5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     #t_1_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.1] El ambiente externo de las organizaciones
@@ -356,7 +356,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.redalyc.org/articulo.oa?id=498150310002" target="_blank" rel="noopener noreferrer") Gutiérrez Olvera, S., & Montañez Moya, G. S. (2011). Innovación tecnológica como parte de la cultura empresarial: Diagnóstico de la pequeña y mediana empresa tequilera. RIDE Revista Iberoamericana para la Investigación y el Desarrollo Educativo, 1(2), 18-32. Centro de Estudios e Investigaciones para el Desarrollo Docente A.C. 
+              a(href="https://www.ride.org.mx/index.php/RIDE/article/view/23/94" target="_blank" rel="noopener noreferrer") Gutiérrez Olvera, S., & Montañez Moya, G. S. (2011). Innovación tecnológica como parte de la cultura empresarial: Diagnóstico de la pequeña y mediana empresa tequilera. RIDE Revista Iberoamericana para la Investigación y el Desarrollo Educativo, 1(2), 18-32. Centro de Estudios e Investigaciones para el Desarrollo Docente A.C. 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.5fuerzasdeporter.com/ " target="_blank" rel="noopener noreferrer") Riquelme Leiva, Matias (2015, Junio). Las 5 Fuerzas de Porter – Clave para el Éxito de la Empresa. Santiago, Chile. Retrieved from 
